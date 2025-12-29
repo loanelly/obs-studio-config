@@ -1,0 +1,2 @@
+# obs-studio-config
+null
